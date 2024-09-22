@@ -1,2 +1,6 @@
 .env
 kidney.py
+secrets/*
+!secrets/
+*.zip
+!codes.zip

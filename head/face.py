@@ -1,4 +1,4 @@
 print('Face')
 print('qaslar')
 print('Dodaqar')
-print('disler')
+print('boyuk disler')

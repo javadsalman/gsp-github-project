@@ -1,6 +1,6 @@
 .env
 kidney.py
 secrets/*
-!secrets/
+!secrets/.gitkeep
 *.zip
 !codes.zip

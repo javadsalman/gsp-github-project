@@ -1,3 +1,3 @@
-print('Boyuk beden')
+print('Boyuk genis beden')
 print('Shadow')
 print('Deri rengi')

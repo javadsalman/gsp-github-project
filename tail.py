@@ -1,1 +1,1 @@
-print("Tail")
+print("Long Tail")

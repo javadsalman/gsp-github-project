@@ -1,1 +1,2 @@
 print('Face')
+print('qaslar')
